@@ -1,0 +1,8 @@
+C:\Users\ivinn\source\repos\oop__\oop__\bin\Release\oop__.exe.config
+C:\Users\ivinn\source\repos\oop__\oop__\bin\Release\oop__.exe
+C:\Users\ivinn\source\repos\oop__\oop__\bin\Release\oop__.pdb
+C:\Users\ivinn\source\repos\oop__\oop__\obj\Release\oop__.csproj.AssemblyReference.cache
+C:\Users\ivinn\source\repos\oop__\oop__\obj\Release\oop__.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivinn\source\repos\oop__\oop__\obj\Release\oop__.csproj.CoreCompileInputs.cache
+C:\Users\ivinn\source\repos\oop__\oop__\obj\Release\oop__.exe
+C:\Users\ivinn\source\repos\oop__\oop__\obj\Release\oop__.pdb
