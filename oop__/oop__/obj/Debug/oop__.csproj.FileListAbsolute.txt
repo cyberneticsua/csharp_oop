@@ -1,8 +1,0 @@
-C:\Users\ivinn\source\repos\oop__\oop__\bin\Debug\oop__.exe.config
-C:\Users\ivinn\source\repos\oop__\oop__\bin\Debug\oop__.exe
-C:\Users\ivinn\source\repos\oop__\oop__\bin\Debug\oop__.pdb
-C:\Users\ivinn\source\repos\oop__\oop__\obj\Debug\oop__.csproj.AssemblyReference.cache
-C:\Users\ivinn\source\repos\oop__\oop__\obj\Debug\oop__.csproj.SuggestedBindingRedirects.cache
-C:\Users\ivinn\source\repos\oop__\oop__\obj\Debug\oop__.csproj.CoreCompileInputs.cache
-C:\Users\ivinn\source\repos\oop__\oop__\obj\Debug\oop__.exe
-C:\Users\ivinn\source\repos\oop__\oop__\obj\Debug\oop__.pdb
